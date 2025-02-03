@@ -1,4 +1,4 @@
-# Flappy Bird (Pygame)
+<!--Flappy Bird (Pygame)-->
 <a id="readme-top"></a>
 <!-- PROJECT LOGO -->
 <br />
@@ -57,34 +57,50 @@ Um clone do jogo "Flappy Bird", usando Pygame.
 <!-- BUILT WITH -->
 ### Tecnologias 🚀
 
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* ![Pygame](https://img.shields.io/badge/Pygame-2.1.2-brightgreen)
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Como iniciar ▶️
 
-### Pré-requisitos ✅
+Para executar esse projeto localmente, siga as instruções abaixo:
 
+### Pré-requisitos ✅
+* Python 3 
+* Pygame 
 ### Instalação 📦
 
 1. Clone o repositório:
    ```sh
    git clone https://github.com/DiAngello/flappybird/.git
    ```
-2. ...  
+2.  Navegue até o diretório do projeto:
+    ```sh
+    cd flappybird
+    ```
     
-3. ...
+3.  Instale as dependências:
+    ```sh
+    pip install pygame
+    ```
+4.  Execute o jogo:
+    ```sh
+    python main.py
+    ```
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Uso 📌
 
-1. ...
+1. **Início**:
+   - Na tela inicial, precione a tecla "espaço" para começar o jogo.
      
-2. ...
+2. Pressione a barra de espaço para fazer a cobra pular.
    
-3. ...
+3. Evite os tubos e tente alcançar a maior pontuação possível!
   
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
